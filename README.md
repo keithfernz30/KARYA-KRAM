@@ -1,2 +1,2 @@
 # KARYA-KRAM
-Event Management App
+KARYAKRAM-the College Event Management Web application’ offers a comprehensive solution for organizing and managing various events within the college community and reduce manual work. The system's design incorporates a user-friendly interface, robust backend architecture, and essential features such as event creation, user registration, communication tools and  media galleries. By focusing on scalability, security, and integration with external systems, the project aims to provide a versatile platform that meets the dynamic needs of the college environment.
